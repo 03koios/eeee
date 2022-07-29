@@ -1,8 +1,5 @@
 ----------- REMAKE LIB
 
-if game.CoreGui:FindFirstChild("Poggers") then
-    game.CoreGui.Poggers:Destroy()
- end
 
 
 
